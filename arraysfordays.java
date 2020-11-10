@@ -1,4 +1,4 @@
-public class Konidala_ArraysForDays
+public class arraysfordays
 {
 	public static void main(String[] args) {
 		int[] myNumArr = new int[100];
